@@ -1,6 +1,6 @@
 ## Add the code
 
-Now we've completed our circuit we'll need to write code to trigger the transistor, allowing current to flow through the resistor, which will pop the balloon.
+Now you have completed your circuit you need to write code to trigger the transistor, allowing current to flow through the resistor, which will pop the balloon.
 
 ### Open MakeCode
 

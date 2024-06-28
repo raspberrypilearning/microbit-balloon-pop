@@ -1,6 +1,6 @@
 ## Set up the balloon popper
 
-We're going to be using a resistor to make the balloon pop.
+You will use a resistor to make the balloon pop.
 
 --- collapse ---
 
