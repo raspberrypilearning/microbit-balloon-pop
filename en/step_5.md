@@ -1,4 +1,4 @@
-## Add the balloon to the code
+## Add the code
 
 Now we've completed our circuit we'll need to write code to trigger the transistor, allowing current to flow through the resistor, which will pop the balloon.
 
