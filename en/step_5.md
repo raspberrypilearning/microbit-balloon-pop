@@ -2,6 +2,46 @@
 
 Now we've completed our circuit we'll need to write code to trigger the transistor, allowing current to flow through the resistor, which will pop the balloon.
 
+### Open MakeCode
+
+--- task ---
+
+Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
+
+--- /task ---
+
+--- collapse ---
+
+---
+title: Offline version of the editor
+---
+
+There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="_blank"}.
+
+--- /collapse ---
+
+--- /task ---
+
+### First micro:bit project?
+
+[[[makecode-tour]]]
+
+### Create your project
+
+--- task ---
+
+Click on the **New Project** button.
+
+<img src="images/new-project-button.png" alt="The New Project button inside MakeCode." width="250"/>
+
+--- /task ---
+
+--- task ---
+
+Give your project a name. 
+
+--- /task ---
+
 --- task ---
 
 - Drag the `show icon`{:class="microbitbasic"} block into the code editor. 
