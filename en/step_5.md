@@ -4,17 +4,21 @@ Now we've completed our circuit we'll need to write code to trigger the transist
 
 --- task ---
 
-Drag the `show icon`{:class="microbitbasic"} block into the code editor. 
+- Drag the `show icon`{:class="microbitbasic"} block into the code editor. 
+  
+- Place it inside the  `on start`{:class="microbitbasic"} block. 
 
-Place it inside the  `on start`{:class="microbitbasic"} block. 
+- Select a tick icon to show when the micro:bit is ready.
 
-Select a tick icon to show when the micro:bit is ready.
+--- /task ---
 
-From the `Input`{:class="microbitinput"} menu, drag the `on button [A]`{:class="microbitinput"} block to the code editor panel.
+--- task ---
 
-Click `Advanced`. From the `Pin` {:class="microbitpins"} menu drag the `digital write pin`{:class="microbitpins"} block.
+- From the `Input`{:class="microbitinput"} menu, drag the `on button [A]`{:class="microbitinput"} block to the code editor panel.
 
-Place it in the `on button [A]`{:class="microbitinput"} block in the code editor panel.
+- Click `Advanced`. From the `Pin` {:class="microbitpins"} menu drag the `digital write pin`{:class="microbitpins"} block. Place it in the `on button [A]`{:class="microbitinput"} block in the code editor panel.
+
+--- /task ---
 
 ```microbit
 input.onButtonPressed(Button.A, function () {
@@ -22,9 +26,6 @@ input.onButtonPressed(Button.A, function () {
 })
 basic.showIcon(IconNames.Yes)
 ```
---- /task ---
-
-Now comes the code to pop the balloon.
 
 --- task ---
 
