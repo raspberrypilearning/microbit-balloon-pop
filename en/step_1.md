@@ -7,6 +7,8 @@ Your browser does not support the video tag.
 </video>
 </html>
 
+This example uses a Raspberry Pi as the controller, but you will use a micro:bit
+
 --- collapse ---
 
 ---
