@@ -34,7 +34,7 @@ Download your program onto your micro:bit!
 
 [[[download-to-microbit]]]
 
-### Test your program
+### Test your program
 
 --- task ---
 
