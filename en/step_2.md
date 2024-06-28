@@ -32,10 +32,11 @@ Take the speaker cable, (about 2 meters in length) and strip both ends, so the b
 
 --- task ---
 
-Take a 12Ω resistor ![12ohm resistor](images/12ohm.png).
+Take a 12Ω resistor. 
+![12ohm resistor](images/12ohm.png)
 
-(The 330Ω resistor looks like this for comparison
-![330ohm resistor](images/330ohm.png))
+(The 330Ω resistor looks like this for comparison.)
+![330ohm resistor](images/330ohm.png)
 
 Twist one wire of the cable around one leg coming from the 12Ω resistor, and the other wire around the other leg; it doesn't matter which wire is connected to which leg, just make sure the two ends of the wire do not touch each other.
 
