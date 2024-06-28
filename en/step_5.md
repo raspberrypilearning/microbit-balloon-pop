@@ -24,8 +24,6 @@ basic.showIcon(IconNames.Yes)
 ```
 --- /task ---
 
---- task ---
-
 Now comes the code to pop the balloon.
 
 --- task ---
