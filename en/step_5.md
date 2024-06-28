@@ -20,8 +20,6 @@ There is also a [downloadable version of the MakeCode editor](https://makecode.m
 
 --- /collapse ---
 
---- /task ---
-
 ### First micro:bit project?
 
 [[[makecode-tour]]]
@@ -44,7 +42,7 @@ Give your project a name.
 
 --- task ---
 
-- Drag the `show icon`{:class="microbitbasic"} block into the code editor. 
+- From the `Basic`{:class="microbitbasic"} menu, drag the `show icon`{:class="microbitbasic"} block into the code editor. 
   
 - Place it inside the  `on start`{:class="microbitbasic"} block. 
 
@@ -56,7 +54,11 @@ Give your project a name.
 
 - From the `Input`{:class="microbitinput"} menu, drag the `on button [A]`{:class="microbitinput"} block to the code editor panel.
 
-- Click `Advanced`. From the `Pin` {:class="microbitpins"} menu drag the `digital write pin`{:class="microbitpins"} block. Place it in the `on button [A]`{:class="microbitinput"} block in the code editor panel.
+- Click `Advanced`. 
+  
+- From the `Pin`{:class="microbitpins"} menu, drag the `digital write pin`{:class="microbitpins"} block into the code editor. 
+
+- Place it in the `on button [A]`{:class="microbitinput"} block.
 
 --- /task ---
 
@@ -85,3 +87,23 @@ Depending on the thickness of your balloon and how much it has been blown up and
 
 --- /task ---
 
+Here are some more examples of people having fun with this project!
+
+<html>
+<video width="540" height="720" controls>
+<source src="images/pop1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</html>
+<html>
+<video width="540" height="720" controls>
+<source src="images/pop2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</html>
+<html>
+<video width="720" height="540" controls>
+<source src="images/pop3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</html>
