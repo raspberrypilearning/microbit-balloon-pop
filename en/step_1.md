@@ -1,59 +1,45 @@
-## Introduction
+## What you will make
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
-
-### What you will make
-
---- no-print ---
-Add instructions for interacting with the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+<html>
+<video width="540" height="720" controls>
+<source src="images/balloon popper.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</html>
 
 --- collapse ---
+
 ---
+
 title: What you will need
+
 ---
-### Hardware
+* 1 x Solderless breadboard
+* 1 x 9V battery
+* 1 x Battery snap
+* 2 x Crocodile clips
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+For each balloon:
+* 3 x pin-to-pin jumper lead
+* 1 x 2m strip of 2-core speaker cable
+* 1 x 12Ω resistor
+* 1 x 330Ω resistor
+* 1 x BC635 transistor
 
 --- /collapse ---
 
 --- collapse ---
+
 ---
+
 title: What you will learn
----
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+---
+- How to wire up a circuit
+- What transistors are used for
+- How to use a push button to control current
+- How to use code to control a GPIO pin, to heat up a resistor enough to pop a balloon!
 
 --- /collapse ---
 
---- collapse ---
----
-title: Additional information for educators
----
 
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
