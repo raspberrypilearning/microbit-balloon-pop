@@ -24,9 +24,11 @@ title: What you will need
 For each balloon:
 * 3 x pin-to-pin jumper lead
 * 1 x 2m strip of 2-core speaker cable
-* 1 x 12Ω resistor
-* 1 x 330Ω resistor
 * 1 x BC635 transistor
+* 1 x 12Ω resistor 
+![12ohm resistor](images/12ohm.png)
+* 1 x 330Ω resistor
+![330ohm resistor](images/330ohm.png)
 
 --- /collapse ---
 
@@ -34,13 +36,13 @@ For each balloon:
 
 ---
 
-title: What you will learn
+title: What you will do
 
 ---
-- How to wire up a circuit
-- What transistors are used for
-- How to use a push button to control current
-- How to use code to control a GPIO pin, to heat up a resistor enough to pop a balloon!
+- Wire up a circuit
+- Use transistors
+- Use a push button to control current
+- Use code to control a GPIO pin, to heat up a resistor enough to pop a balloon!
 
 --- /collapse ---
 

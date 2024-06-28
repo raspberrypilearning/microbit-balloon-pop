@@ -8,7 +8,7 @@ title: Transistors
 
 ---
 
-The voltage of a circuit is the amount of 'push' the current has: a higher voltage provides a bigger push, which usually results in more current flowing in the circuit. Here, in order to make the resistor hot enough to pop the balloon, we need to run a higher current through them than the voltage on the micro:bit can provide, and to do this we'll use a device called a transistor.
+The voltage of a circuit is the amount of 'push' the current has: a higher voltage provides a bigger push, which usually results in more current flowing in the circuit. Here, in order to make the resistor hot enough to pop the balloon, you need to run a higher current through them than the voltage on the micro:bit can provide, and to do this you will use a device called a transistor.
 
 A transistor allows you to 'amplify' a circuit, as they can be switched 'on' by a low-voltage circuit, and once 'on' they allow a higher-voltage circuit to flow. However, it's important that they're wired up correctly.
 
@@ -54,4 +54,4 @@ Connect the battery snap to the 9V battery and connect the red cable to the posi
 
 --- /task ---
 
-**Tip** We need 9 volts for the resistor to get hot enough to pop the balloon!
+**Tip** You need 9 volts for the resistor to get hot enough to pop the balloon!

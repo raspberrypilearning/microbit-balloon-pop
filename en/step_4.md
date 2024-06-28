@@ -2,7 +2,7 @@
 
 --- task ---
 
-We want this circuit to go through the resistor attached to the balloon. Connect one end to the transistor's collector (the middle leg) and the other side to the 9V power rail:
+This circuit must go through the resistor attached to the balloon. Connect one end to the transistor's collector (the middle leg) and the other side to the 9V power rail:
 
 ![The components connected](images/step4-1.png)
 

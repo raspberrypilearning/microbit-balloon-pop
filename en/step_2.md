@@ -1,6 +1,6 @@
 ## Set up the balloon popper
 
-We're going to be using a resistor to make the balloon pop.
+You will use a resistor to make the balloon pop.
 
 --- collapse ---
 
@@ -22,7 +22,7 @@ Inflate a balloon so it's nice and full, then tie a knot in it.
 
 --- task ---
 
-Take the speaker cable, (about 2 metres in length) and strip both ends, so the bare wire is visible.
+Take the speaker cable, (about 2 meters in length) and strip both ends, so the bare wire is visible.
 
 ![2-core speaker cable](images/step1_point2_wires.jpg)
 
@@ -32,7 +32,13 @@ Take the speaker cable, (about 2 metres in length) and strip both ends, so the b
 
 --- task ---
 
-Take a 12Ω resistor and the stripped end of the wire. Twist one wire of the cable around one leg coming from the resistor, and the other wire around the other leg coming from the resistor; it doesn't matter which wire is connected to which, just make sure the two ends of the wire do not touch each other.
+Take a 12Ω resistor. 
+![12ohm resistor](images/12ohm.png)
+
+(The 330Ω resistor looks like this for comparison.)
+![330ohm resistor](images/330ohm.png)
+
+Twist one wire of the cable around one leg coming from the 12Ω resistor, and the other wire around the other leg; it doesn't matter which wire is connected to which leg, just make sure the two ends of the wire do not touch each other.
 
 Make sure that there's a firm connection; you can even wrap electrical tape around the twisted wire to ensure it stays in place.
 
