@@ -6,8 +6,8 @@ technologies: electronic-components, python
 site_areas: projects
 hardware: electronic-components
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: "2024-06-28"
 steps:
   - title: Introduction
