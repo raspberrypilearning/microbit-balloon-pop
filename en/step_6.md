@@ -1,4 +1,4 @@
-## What next?
+## What can I do now?
 
 You could change the trigger from Button A to another button, a temperature, a gesture (like shake), or even trigger the pop using a radio message received from a second micro:bit!
 
