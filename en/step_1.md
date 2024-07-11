@@ -36,6 +36,8 @@ title: What you will need
 * 1 x 9V battery
 * 1 x Battery snap
 * 2 x Crocodile clips
+* Some electrical tape
+* Some string and sticky tape or Blu Tack
 
 For each balloon:
 * 3 x Pin-to-pin jumper lead
