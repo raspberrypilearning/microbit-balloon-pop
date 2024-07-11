@@ -7,7 +7,7 @@ Your browser does not support the video tag.
 </video>
 </html>
 
-This example uses a Raspberry Pi as the controller, but you will use a micro:bit
+This example uses a Raspberry Pi as the controller, but you will use a micro:bit.
 
 --- collapse ---
 
@@ -38,7 +38,7 @@ title: What you will need
 * 2 x Crocodile clips
 
 For each balloon:
-* 3 x pin-to-pin jumper lead
+* 3 x Pin-to-pin jumper lead
 * 1 x 2m strip of 2-core speaker cable
 * 1 x BC635 transistor
 * 1 x 12Ω resistor 
