@@ -40,7 +40,7 @@ Be sure to use a seperate hole for each pin and make sure they're all in the sam
 
 --- task ---
 
-Now use a pin-to-pin jumper cable to connect the emitter to the ground rail, and a crocodile clip to connect the unconnected end of the 330Ω resistor to Pin 0 on the micro:bit. Finally, connect the ground rail to the GND pin on the micro:bit.
+Now use a pin-to-pin jumper cable to connect the emitter to the ground rail, and a crocodile clip to connect the unconnected end of the 330Ω resistor to Pin 0 on the micro:bit. Also, connect the ground rail to the GND pin on the micro:bit.
 
 ![The components connected](images/step3-2.png)
 
