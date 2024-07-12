@@ -1,6 +1,6 @@
 ## Add the code
 
-Now you have completed your circuit you need to write code to trigger the transistor, allowing current to flow through the resistor, which will pop the balloon.
+Now you have completed your circuit, you need to write the code to trigger the transistor, allowing current to flow through the resistor, which will pop the balloon.
 
 ### Open MakeCode
 
@@ -83,7 +83,7 @@ Download your program onto your micro:bit!
 
 Wait for the tick to show and then press button A.
 
-Depending on the thickness of your balloon and how much it has been blown up and stretched, this may take five seconds or more.
+Depending on the thickness of your balloon and how much it has been blown up and stretched, it may take five seconds or more until it pops.
 
 --- /task ---
 
