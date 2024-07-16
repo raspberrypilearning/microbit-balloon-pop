@@ -54,7 +54,7 @@ Take some more electrical tape (it doesn't matter what colour you use) and tape 
 
 ![The resistor secured with even more tape!](images/step1_point4_tapedresistor.jpg)
 
-Now tie some string onto the knot of your balloon and hang it from the ceiling using tape or Blu-Tack.
+Now tie some string onto the knot of your balloon and put it in a safe place so it won't hurt anyone when it pops. You can stick it somewhere using tape or Blu-Tack.
 
 --- /task ---
 
