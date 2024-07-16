@@ -32,7 +32,7 @@ Hold the BC635 transistor with the flat side facing towards you. From left to ri
 
 Carefully place the transistor onto the breadboard, with the flat side facing the ground rail and a 330Ω resistor connected to the base, like so:
 
-![The components in the breadboard](images/step3-1.png)
+![The emitter is connected to row 9 on the breadboard, the collector to row 10 and the base to row 11. The other end of the resistor is connected to row 15](images/step3-1.png)
 
 Be sure to use a seperate hole for each pin and make sure they're all in the same row.
 
