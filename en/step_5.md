@@ -90,13 +90,13 @@ Depending on the thickness of your balloon and how much it has been blown up and
 Here are some more examples of people having fun with this project!
 
 <html>
-<video width="540" height="960" controls style="transform: rotate(180deg);">
+<video width="540" height="960" controls>
 <source src="images/pop1v.mov" type="video/mov">
 Your browser does not support the video tag.
 </video>
 </html>
 <html>
-<video width="540" height="960" controls style="transform: rotate(180deg);">
+<video width="540" height="960" controls>
 <source src="images/pop2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
