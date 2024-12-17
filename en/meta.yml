@@ -1,0 +1,22 @@
+title: micro:bit balloon pop
+hero_image: images/banner.png
+description: Pop balloons using a different type of pin - a GPIO pin!
+interests: humour
+technologies: electronic-components, python
+site_areas: projects
+hardware: electronic-components
+version: 4
+listed: true
+copyedit: true
+last_tested: "2024-06-28"
+steps:
+  - title: Introduction
+  - title: Set up the balloon popper  
+    completion:
+    - engaged
+  - title: Connect the transistor
+  - title: Connect the balloon
+  - title: Add the code
+    completion:
+    - internal
+  - title: What next?
