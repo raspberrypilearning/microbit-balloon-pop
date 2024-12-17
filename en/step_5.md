@@ -90,14 +90,14 @@ Depending on the thickness of your balloon and how much it has been blown up and
 Here are some more examples of people having fun with this project!
 
 <html>
-<video width="540" height="960" controls>
+<video width="960" height="540" controls>
 <source src="images/popv1.mp4" type="video/mp4">
 <source src="images/popv1.ogv" type="video/ogv">
 Your browser does not support the video tag.
 </video>
 </html>
 <html>
-<video width="540" height="960" controls>
+<video width="960" height="540" controls>
 <source src="images/popv2.mp4" type="video/mp4">
 <source src="images/popv2.ogv" type="video/ogv">
 Your browser does not support the video tag.
