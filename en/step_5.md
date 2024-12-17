@@ -87,35 +87,7 @@ Depending on the thickness of your balloon and how much it has been blown up and
 
 --- /task ---
 
-Here are some more examples of people having fun with this project!
-
-<html>
-<style>
-  .video-wrapper {
-      position: relative;
-      width: 540px;
-      height: 960px;
-  }
-  .video-wrapper video {
-      transform: rotate(180deg);
-      width: 100%;
-      height: 100%;
-  }
-</style>
-<div class="video-wrapper">
-    <video width="540" height="960" controls>
-        <source src="images/pop1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
-
-<div class="video-wrapper">
-    <video width="540" height="960" controls>
-        <source src="images/pop2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
-</html>
+Here is another example of people having fun with this project!
 
 <html>
 <video width="960" height="540" controls>
